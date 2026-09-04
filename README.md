@@ -1,16 +1,17 @@
-## Hi, I'm Samruddhi Patil 👋
+# Hi, I'm Samruddhi Patil 👋
 
-<!--
-**samruddhip349-stack/samruddhip349-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Data Science Student  
+🐍 Currently learning Python  
+📊 Exploring Data Science  
+💡 Interested in learning and building new projects
 
-Here are some ideas to get you started:
+## Skills I'm Learning
+- Python
+- SQL
+- Data Science
+- Pandas
+- Data Visualization
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- LinkedIn:linkedin.com/in/samruddhi-patil-358339326
