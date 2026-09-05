@@ -1,17 +1,3 @@
-# Hi, I'm Samruddhi Patil 👋
+Retail Shelf Monitoring
 
-🎓 BSc Data Science Student  
-🐍 Currently learning Python  
-📊 Exploring Data Science  
-💡 Interested in learning and building new projects
-
-## Skills I'm Learning
-- Python
-- SQL
-- Data Science
-- Pandas
-- Data Visualization
-- Git & GitHub
-
-## Connect with me
-- LinkedIn:linkedin.com/in/samruddhi-patil-358339326
+A data science project for monitoring retail shelves using computer vision and machine learning to detect products and analyze shelf conditions.
